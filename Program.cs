@@ -53,7 +53,7 @@ namespace firstApp
            nombre="Omar bruno gimenez",
            edad=30,
            tel=153288081,
-           legajo=34578
+           legajo=34579
            });
            //esto es linq que es como hacer una consulta a la db, como una consulta sql, y el operador para negar es el "!"
            //var consulta= from profe in lista where profe.edad==30 && ! profe.nombre.StartsWith("j") select profe.id;
