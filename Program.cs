@@ -23,7 +23,7 @@ namespace firstApp
            lista.Add(new Profesor(){
            id=2,
            nombre="juan Arce",
-           edad=32,
+           edad=33,
            tel=153288083,
            legajo=31144   
            });
@@ -32,7 +32,7 @@ namespace firstApp
            nombre="david gimenez",
            edad=25,
            tel=15478222,
-           legajo=35444
+           legajo=35443
            });
            lista.Add(new Profesor(){
            id=4,
@@ -50,7 +50,7 @@ namespace firstApp
            });
            lista.Add(new Profesor(){
            id=6,
-           nombre="jose sabate",
+           nombre="Omar bruno gimenez",
            edad=30,
            tel=153288081,
            legajo=34578
