@@ -1,0 +1,13 @@
+C:\Users\Yessica-\Documents\curso-de-c#\proyects\firstApp\bin\Debug\net5.0\firstApp.exe
+C:\Users\Yessica-\Documents\curso-de-c#\proyects\firstApp\bin\Debug\net5.0\firstApp.deps.json
+C:\Users\Yessica-\Documents\curso-de-c#\proyects\firstApp\bin\Debug\net5.0\firstApp.runtimeconfig.json
+C:\Users\Yessica-\Documents\curso-de-c#\proyects\firstApp\bin\Debug\net5.0\firstApp.runtimeconfig.dev.json
+C:\Users\Yessica-\Documents\curso-de-c#\proyects\firstApp\bin\Debug\net5.0\firstApp.dll
+C:\Users\Yessica-\Documents\curso-de-c#\proyects\firstApp\bin\Debug\net5.0\firstApp.pdb
+C:\Users\Yessica-\Documents\curso-de-c#\proyects\firstApp\obj\Debug\net5.0\firstApp.csprojAssemblyReference.cache
+C:\Users\Yessica-\Documents\curso-de-c#\proyects\firstApp\obj\Debug\net5.0\firstApp.AssemblyInfoInputs.cache
+C:\Users\Yessica-\Documents\curso-de-c#\proyects\firstApp\obj\Debug\net5.0\firstApp.AssemblyInfo.cs
+C:\Users\Yessica-\Documents\curso-de-c#\proyects\firstApp\obj\Debug\net5.0\firstApp.csproj.CoreCompileInputs.cache
+C:\Users\Yessica-\Documents\curso-de-c#\proyects\firstApp\obj\Debug\net5.0\firstApp.dll
+C:\Users\Yessica-\Documents\curso-de-c#\proyects\firstApp\obj\Debug\net5.0\firstApp.pdb
+C:\Users\Yessica-\Documents\curso-de-c#\proyects\firstApp\obj\Debug\net5.0\firstApp.genruntimeconfig.cache
