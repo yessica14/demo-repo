@@ -51,7 +51,7 @@ namespace firstApp
            lista.Add(new Profesor(){
            id=6,
            nombre="Omar bruno gimenez",
-           edad=30,
+           edad=31,
            tel=153288081,
            legajo=34579
            });
